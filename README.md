@@ -74,11 +74,3 @@ Following: 50
 📝 Recent Issues
 No recent issues found
 ```
-
-## License
-
-MIT
-
-## Contributing
-
-Feel free to open issues and pull requests! 
