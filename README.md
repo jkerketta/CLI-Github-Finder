@@ -1,6 +1,6 @@
 # GitHub User Finder CLI
 
-A command-line tool to fetch and display GitHub user information, their top repositories, and recent issues.
+A Node.js based command-line tool to fetch and display GitHub user information, their top repositories, and recent issues.
 
 ## Features
 
